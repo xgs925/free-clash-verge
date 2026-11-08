@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:35:15.802800+00:00",
+  "generated_at": "2026-11-08T12:12:24.244067+00:00",
   "proxy_count": 500,
   "sources": [
     {
@@ -35,7 +35,7 @@
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
       "ok": true,
       "received": 467,
-      "added": 379
+      "added": 378
     },
     {
       "name": "anaer/Sub",
@@ -69,7 +69,7 @@
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
-      "received": 149,
+      "received": 138,
       "added": 0
     }
   ]
